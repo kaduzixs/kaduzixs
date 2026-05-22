@@ -1,6 +1,4 @@
 
-<h2>🐱‍👤 Hi i'm Kadu, welcome my profille in github</h2>
-<hr>
 <p>🦝 In this GitHub is where I will publish my projects.</p>
 <hr>
 
