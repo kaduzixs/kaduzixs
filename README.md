@@ -7,8 +7,8 @@
 </div>
 
 ---
+<div align="center"><h1>About me</h1></div>
 
-## 👨‍💻 Sobre mim
 
 ```python
 dev = {
@@ -26,7 +26,7 @@ dev = {
 
 ---
 
-## 🛠️ Skils
+<div align="center"><h1>Skils</h1></div>
 
 <div align="center">
 
@@ -48,8 +48,7 @@ dev = {
 </div>
 
 ---
-
-## 🏆 Projeto em Destaque
+<div align="center"><h1>🏆 Projeto em Destaque</h1></div>
 
 <div align="center">
 
@@ -71,7 +70,7 @@ dev = {
 
 ---
 
-## 💼 Experiência
+<div align="center"><h1>💼 Experiência</h1></div>
 
 **Customer Service and Sales Assistant — Estágio**
 `Junho 2025 – Outubro 2025`
@@ -80,8 +79,8 @@ dev = {
 - 🤝 Atendimento ao cliente
 
 ---
+<div align="center"><h1>📚 Formação</h1></div>
 
-## 📚 Formação
 
 **Técnico em Desenvolvimento de Sistemas**
 🏫 Etec Sales Gomes · Tatuí-SP
@@ -90,8 +89,8 @@ dev = {
 Disciplinas: Banco de Dados · Front End · Back End · Flutter · Análise de Projetos e Sistemas · Lógica de Programação
 
 ---
+<div align="center"><h2> 📊 GitHub Stats</h2></div>
 
-## 📊 GitHub Stats
 
 <div align="center">
 
