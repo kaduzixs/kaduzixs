@@ -7,68 +7,58 @@
 </div>
 
 ---
-<div align="center"><h1>About me</h1></div>
 
 
-```python
-dev = {
-    "nome":       "João Guilherme Barros Masçau",
-    "idade":      16,
-    "localização":"Tatuí, São Paulo, BR",
-    "formação":   "Desenvolvimento de Sistemas — Etec Sales Gomes",
-    "foco":       "Backend Developer",
-    "estudando":  ["Java", "Design Patterns", "Flutter"],
-    "objetivo":   "Primeiro estágio/trainee em Backend 🎯"
-}
-```
+
 
 > Full Stack Developer com **1 ano e 5 meses** de estudos dedicados à tecnologia. Atualmente cursando Desenvolvimento de Sistemas na **Etec Sales Gomes**, onde aprofundo conhecimentos em Banco de Dados, Front End, Back End, Análise de Projetos e Sistemas, Flutter e lógica de programação. Estou expandindo meu ecossistema para o **Backend** e iniciando estudos em **Java** para ampliar minha gama de soluções. Busco minha primeira oportunidade de **estágio ou trainee** em Backend.
 
----
 
-<div align="center"><h1>Skils</h1></div>
+<div align="center">
+<div><h2>Contact</h2></div>
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Kaduzin)
+[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5515991981759)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lisboasnery@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kaduzixs)
+
+</div>
+
+
 
 <div align="center">
 
-### Linguagens
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+<div align="center"><h1>Skills</h1></div>
+
+<div align="center">
+
+### Front-end
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
-### Banco de Dados & Ferramentas
+### Back-end
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+### Tools
+     
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-
 </div>
 
+    
+
+
 ---
-<div align="center"><h1>🏆 Projeto em Destaque</h1></div>
+
 
 <div align="center">
 
-### 🎮 EPA Game — Etec Sales Gomes
 
-</div>
-
-> Desenvolvi um jogo completo apresentado no evento **EPA** da Etec Sales Gomes com **mais de 500 participantes**.
-
-```
-🕹️  O JOGO
-├── 👤 Seleção de personagem com poderes individuais
-├── 🌍 Mundo fechado com monstros de diferentes dificuldades
-├── 💀 Monstros derrotados dropam itens como pontuação XP
-└── 🏅 Leaderboard ao final mostrando os maiores scores
-```
-
-✅ Avaliado por **professores e diretores** da escola com **feedback excelente**.
-
----
 
 <div align="center"><h1>💼 Experiência</h1></div>
 
@@ -101,20 +91,9 @@ Disciplinas: Banco de Dados · Front End · Back End · Flutter · Análise de P
 
 ---
 
-## 🌐 Contato
 
-<div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/Kaduzin)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/kaduzixs)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lisboasnery@gmail.com)
-[![WhatsApp](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/5515991981759)
 
-</div>
-
----
-
-<div align="center">
 
 ![Visitor Count](https://komarev.com/ghpvc/?username=kaduzixs&color=00D9FF&style=for-the-badge&label=VISITANTES)
 
