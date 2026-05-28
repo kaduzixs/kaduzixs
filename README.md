@@ -60,7 +60,7 @@
 
 
 
-<div align="center"><h1>💼 Experiência</h1></div>
+<div align="center"><h1>💼 Experience</h1></div>
 
 **Customer Service and Sales Assistant — Estágio**
 `Junho 2025 – Outubro 2025`
@@ -69,7 +69,7 @@
 - 🤝 Atendimento ao cliente
 
 ---
-<div align="center"><h1>📚 Formação</h1></div>
+<div align="center"><h1>📚 Formation</h1></div>
 
 
 **Técnico em Desenvolvimento de Sistemas**
