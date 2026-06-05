@@ -2,7 +2,7 @@
 
 ### 🚀 Full Stack Developer · Backend Enthusiast · 16 anos
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF6B00&center=true&vCenter=true&width=600&lines=Python+%7C+JavaScript+%7C+HTML+%7C+MySQL;Aprendendo+Java+%F0%9F%93%9A;Sempre+buscando+evoluir+%F0%9F%94%A5;Buscando+meu+primeiro+est%C3%A1gio+%F0%9F%8E%AF)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF6B00&center=true&vCenter=true&width=600&lines=+JavaScript+%7C+HTML+%7C+MySQL;Aprendendo+Java+%F0%9F%93%9A;Sempre+buscando+evoluir+%F0%9F%94%A5;Buscando+meu+primeiro+est%C3%A1gio+%F0%9F%8E%AF)](https://git.io/typing-svg)
 
 </div>
 
