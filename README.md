@@ -1,6 +1,6 @@
 <div align="center">
 
-### 🚀 Full Stack Developer · Backend Enthusiast · 16 anos
+### 🚀 Backend Developer · 16 anos
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=FF6B00&center=true&vCenter=true&width=600&lines=+JavaScript+%7C+HTML+%7C+MySQL;Aprendendo+Java+%F0%9F%93%9A;Sempre+buscando+evoluir+%F0%9F%94%A5;Buscando+meu+primeiro+est%C3%A1gio+%F0%9F%8E%AF)](https://git.io/typing-svg)
 
@@ -11,7 +11,7 @@
 
 
 
-> Full Stack Developer com **1 ano e 5 meses** de estudos dedicados à tecnologia. Atualmente cursando Desenvolvimento de Sistemas na **Etec Sales Gomes**, onde aprofundo conhecimentos em Banco de Dados, Front End, Back End, Análise de Projetos e Sistemas, Flutter e lógica de programação. Estou expandindo meu ecossistema para o **Backend** e iniciando estudos em **Java** para ampliar minha gama de soluções. Busco minha primeira oportunidade de **estágio ou trainee** em Backend.
+> Back-end Developer com **2 ano e 5 meses** de estudos dedicados à tecnologia. Atualmente cursando Desenvolvimento de Sistemas na **Etec Sales Gomes**, onde aprofundo conhecimentos em Banco de Dados, Front End, Back End, Análise de Projetos e Sistemas, Flutter e lógica de programação. Estou expandindo meu ecossistema para o **Backend** e iniciando estudos em **Java** para ampliar minha gama de soluções. Busco minha primeira oportunidade de **estágio ou trainee** em Backend.
 
 
 <div align="center">
