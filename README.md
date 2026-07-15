@@ -2,7 +2,7 @@
 
 ### 🚀 Backend Developer · 16 anos
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=+JavaScript+%7C+HTML+%7C+MySQL;Learning+Java+%F0%9F%93%9A;Search+about+interships+%F0%9F%94%A5;Buscando+meu+primeiro+est%C3%A1gio+%F0%9F%8E%AF)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=+Java+%7C+SpringBootL+%7C+MySQL;Learning+Java+%F0%9F%93%9A;Search+about+interships+%F0%9F%94%A5;Buscando+meu+primeiro+est%C3%A1gio+%F0%9F%8E%AF)](https://git.io/typing-svg)
 
 </div>
 
