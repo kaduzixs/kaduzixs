@@ -2,7 +2,7 @@
 
 ### 🚀 Backend Developer · 16 anos
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=+Java+%7C+SpringBoot+%7C+MySQL;Learning+Java+%F0%9F%93%9A;Search+about+interships+%F0%9F%94%A5;Buscando+meu+primeiro+est%C3%A1gio+%F0%9F%8E%AF)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=+Java+%7C+SpringBoot+%7C+MySQL;Learning+Java+%F0%9F%93%9A;Search+about+interships+%F0%9F%94%A5;Search+Networks+est%C3%A1gio+%F0%9F%8E%AF)](https://git.io/typing-svg)
 
 </div>
 
@@ -11,7 +11,7 @@
 
 
 
-> Back-end Developer com **2 ano e 5 meses** de estudos dedicados à tecnologia. Atualmente cursando Desenvolvimento de Sistemas na **Etec Sales Gomes**, onde aprofundo conhecimentos em Banco de Dados, Front End, Back End, Análise de Projetos e Sistemas, Flutter e lógica de programação. Estou expandindo meu ecossistema para o **Backend** e iniciando estudos em **Java** para ampliar minha gama de soluções. Busco minha primeira oportunidade de **estágio ou trainee** em Backend.
+> Back-end Developer with **2 years and 5 months** of dedicated study in technology. Currently pursuing a course in Systems Development at **Etec Sales Gomes**, where I am deepening my knowledge of databases, front-end and back-end development, project and systems analysis, Flutter, and programming logic. I am expanding my skillset into **back-end development** and beginning to study **Java** to broaden the range of solutions I can offer. I am seeking my first **internship or trainee** opportunity in back-end development..
 
 
 <div align="center">
