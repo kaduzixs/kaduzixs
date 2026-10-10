@@ -1,10 +1,8 @@
 <div align="center">
 
-# 🚀 Backend Developer · Java & Spring Boot
-
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code\&size=22\&pause=1000\&color=00FF00\&center=true\&vCenter=true\&width=650\&lines=Java+%7C+Spring+Boot+%7C+REST+API;MySQL+%7C+PostgreSQL+%7C+JPA;HTML+%7C+CSS+%7C+JavaScript;Flutter+%7C+Dart+%7C+Git;Always+Learning+%F0%9F%94%A5)](https://git.io/typing-svg)
 
-![Profile Views](https://komarev.com/ghpvc/?username=kaduzixs\&color=00D9FF\&style=for-the-badge\&label=VISITANTES)
+
 
 </div>
 
@@ -12,7 +10,6 @@
 
 <div align="center">
 
-## 👨‍💻 About Me
 
 </div>
 
@@ -43,7 +40,6 @@
 
 <div align="center">
 
-# 🛠️ Skills
 
 ### ⚙️ Backend
 
@@ -54,14 +50,12 @@
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge\&logo=php\&logoColor=white)
 
-`Java` · `Spring Boot` · `JPA` · `Hibernate` · `REST API` · `CRUD` · `Maven`
 
-### 🗄️ Database
 
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge\&logo=postgresql\&logoColor=white)
 
-`SQL` · `Relationships` · `CRUD` · `Data Modeling`
+
 
 ### 🌐 Front-end
 
@@ -96,30 +90,10 @@
 ![REST API](https://img.shields.io/badge/REST_API-005571?style=for-the-badge)
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge\&logo=flutter\&logoColor=white)
 
-`Spring Boot` · `JPA` · `Hibernate` · `REST APIs` · `PostgreSQL` · `Java OOP` · `Flutter`
 
 </div>
 
----
 
-<div align="center">
-
-# 🚀 Featured Project
-
-### 🏦 Bank API
-
-**Java · Spring Boot · PostgreSQL**
-
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square\&logo=openjdk\&logoColor=white)
-![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square\&logo=springboot\&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square\&logo=postgresql\&logoColor=white)
-![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=flat-square\&logo=hibernate\&logoColor=white)
-
-Projeto desenvolvido para praticar **APIs REST, Java, Spring Boot, JPA, Hibernate e PostgreSQL**.
-
-`Users` · `Accounts` · `Balance` · `Deposit` · `Withdrawal`
-
-</div>
 
 ---
 
@@ -147,42 +121,17 @@ Projeto desenvolvido para praticar **APIs REST, Java, Spring Boot, JPA, Hibernat
 
 </div>
 
----
 
 
-# 🎓 Formation
 
-**Técnico em Desenvolvimento de Sistemas**
+<div align="center">
 
-🏫 Etec Sales Gomes · Tatuí-SP
 
-`Fevereiro 2025 – Dezembro 2028`
-
-`Banco de Dados` · `Front-end` · `Back-end` · `Flutter` · `Dart` · `Lógica de Programação` · `Análise de Sistemas`
-
-</div>
 
 ---
 
 <div align="center">
 
-# 💼 Experience
-
-**Customer Service and Sales Assistant — Estágio**
-
-`Junho 2025 – Outubro 2025`
-
-📊 Planilhas · 📦 Controle de estoque · 🤝 Atendimento ao cliente
-
-</div>
-
----
-
-<div align="center">
-
-### 🚀 Code · Learn · Build · Repeat
-
-![Profile Views](https://komarev.com/ghpvc/?username=kaduzixs\&color=00D9FF\&style=for-the-badge\&label=VISITANTES)
 
 ⭐ **Se curtiu algum projeto, deixa uma estrela!** ⭐
 
